@@ -1,0 +1,42 @@
+[
+  {
+    "userId": 1,
+    "userName": "R_seller1"
+  },
+  {
+    "userId": 2,
+    "userName": "M_seller2"
+  },
+  {
+    "userId": 3,
+    "userName": "O_seller3"
+  },
+  {
+    "userId": 4,
+    "userName": "A_seller4"
+  },
+  {
+    "userId": 5,
+    "userName": "K_seller5"
+  },
+  {
+    "userId": 6,
+    "userName": "F_seller6"
+  },
+  {
+    "userId": 7,
+    "userName": "S_seller7"
+  },
+  {
+    "userId": 8,
+    "userName": "P_seller8"
+  },
+  {
+    "userId": 9,
+    "userName": "E_seller9"
+  },
+  {
+    "userId": 10,
+    "userName": "Y_seller10"
+  }
+]
